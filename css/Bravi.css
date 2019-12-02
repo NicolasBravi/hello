@@ -1,0 +1,18 @@
+body {font-family: Algerian; background: #f9f092; padding: 32px; box-sizing: border-box; color: #f0f412;}
+body, html {height: 85%;}
+
+.wrapper {box-sizing: border-box; background-color: #400fb2; box-shadow: 0 0 10px #888; box-shadow: 0 0 10px #888; height: 100%; overflow: auto; }
+
+
+a {color: #111;  border-bottom: 2px solid #0CF196;}
+a:hover {border-bottom: 1px solid #CCFF26; color: #222}
+p {font-weight: 200; font-size: 20px;}
+
+.name {font-family: Chiller; font-size: 80px; font-weight: 900; padding-bottom: 20px;}
+.container {margin: 0 auto; width: 1350px; height: 900px; }
+
+.inline-list {list-style: none; margin: 0; padding: 0;}
+.inline-list li {display: inline-block;}
+
+footer .inline-list li {padding-right: 40px;}
+footer {margin: 0 auto; position: absolute; bottom: 10px; padding: 40px 0; width: 600px;}
